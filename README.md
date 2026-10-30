@@ -3,7 +3,7 @@
 <img src="https://github.com/luckyster895/Luckyster895/blob/master/animated.gif?raw=true" width="180" height="180" />
 
 # Hi, I'm Abhinav Saxena 👋
-### Salesforce Marketing Cloud Consultant · Data Cloud · Agentforce
+### Salesforce Martech Developer · Marketing Cloud · Data Cloud · Agentforce
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luckyster895-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luckyster895)
 [![Medium](https://img.shields.io/badge/Medium-luckyster895-000000?style=flat-square&logo=medium&logoColor=white)](https://luckyster895.medium.com/)
@@ -20,19 +20,20 @@
 
 ```js
 const abhinav = {
-  role:      "Martech Consultant",
+  role:      "Salesforce Martech Developer",
   alias:     "Luckyster895",
   location:  "India",
   currently: ["Marketing Cloud", "Data Cloud", "Agentforce"],
-  certs:     5,
+  certs:     7,
   goal2025:  "Learn More · Build More · Ship More",
   hobbies:   ["Music 🎵", "CTF Challenges 🚩"],
 };
 ```
 
-- 💼 **Consultant @ Horizontal** — Salesforce Marketing Cloud + Data Cloud implementations
+- 💼 **Senior Salesforce Developer @ Cloud for Good** — previously Marketing & Data Cloud Developer at Horizontal Digital
 - ☁️ Working across **Marketing Cloud Engagement, Data Cloud, Agentforce**
-- 🏅 **5× Salesforce Certified** professional
+- 🏅 **7× Salesforce Certified** professional
+- 🧪 Exploring the next-gen Marketing Cloud platforms: **Growth, Advanced and Next**
 - 🔐 CTF enthusiast — [Bugcrowd](http://bugcrowd.com/Luckyster895) hunter
 - ✍️ Writing about Salesforce & tech on [Medium](https://luckyster895.medium.com/)
 
@@ -47,6 +48,8 @@ const abhinav = {
 | Marketing Cloud Engagement Administrator | ✅ Certified |
 | Marketing Cloud Engagement Consultant | ✅ Certified |
 | Marketing Cloud Engagement Developer | ✅ Certified |
+| Marketing Cloud Next Consultant | ✅ Certified |
+| Salesforce Associate | ✅ Certified |
 
 ---
 
@@ -79,7 +82,9 @@ const abhinav = {
 
 ## 💼 Experience
 
-**Horizontal** — *Consultant* `Mar 2024 – Present`
+**Cloud for Good** — *Senior Salesforce Developer* `Aug 2026 – Present`
+
+**Horizontal Digital** — *Marketing & Data Cloud Developer* `Mar 2024 – Aug 2026`
 > End-to-end Salesforce Data Cloud implementations, Marketing Cloud + Data Cloud integration, Agentforce AI solutions for Travel & Hospitality
 
 **ATCS – A Nagarro Company** — *Engineer* `Jul 2022 – Mar 2024`
